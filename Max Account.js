@@ -18,5 +18,5 @@ function addGold() {
 }
 
 addGold();
-
+alert("Thank you for using ProdigyHax made by @Lechevalier999(Ribodian) on github");
 
